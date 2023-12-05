@@ -1,0 +1,114 @@
+/*------------------------------------------------------------------
+
+Header Style
+
+-------------------------------------------------------------------*/
+
+.header, .she-header-yes {
+	z-index: 99;
+	width: 100%;
+	transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	-webkit-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+}
+
+.she-header-yes, .she-header-yes.e-con {
+	width: 100%;
+	-webkit-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	-moz-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	-ms-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	-o-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+}
+
+
+
+@media screen and (min-width: 783px) {
+	/* .admin-bar .she-header-transparent-sticky-yes,
+	.admin-bar .she-header-transparent-yes,
+	.admin-bar .she-header-yes, */
+	.admin-bar .she-header {
+		top: 32px !important;
+	}
+}
+
+.she-header {
+	z-index: 9999;
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 0;
+	padding-bottom: 0;
+	position: -webkit-sticky;
+	position: fixed !important;
+	top: 0 !important;
+	-webkit-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	-moz-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	-ms-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	-o-transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+	transform: all 0.4 sease-in-out, height 0.4s ease-in-out, background-color 0.4s ease-in-out, border-bottom-width 0.4s ease-in-out, border-bottom-color 0.4s ease-in-out !important;
+}
+
+.she-header-transparent-yes {
+	position: absolute !important;
+	-webkit-transition: all 0.4s ease-in-out, top 0s;
+	-o-transition: all 0.4s ease-in-out, top 0s;
+	transition: all 0.4s ease-in-out, top 0s;
+	background-color: rgba(0, 0, 0, 0) !important;
+	z-index: 99;
+	width: 100%;
+}
+
+.elementor-editor-active .she-header-transparent-yes {
+	position: absolute !important;
+	-webkit-transition: all 0.4s ease-in-out, top 0s;
+	-o-transition: all 0.4s ease-in-out, top 0s;
+	transition: all 0.4s ease-in-out, top 0s;
+	background-color: rgba(0, 0, 0, 0) !important;
+	z-index: 99;
+	width: 100%;
+}
+
+.she-header.she-blur-yes {
+	-webkit-backdrop-filter: saturate(180%) blur(20px);
+	backdrop-filter: saturate(180%) blur(20px);
+}
+
+.headerup {
+	-webkit-transition: transform 0.4s ease-in-out !important;
+	-o-transition: transform 0.4s ease-in-out !important;
+	-webkit-transition: -webkit-transform 0.4s ease-in-out !important;
+	transition: -webkit-transform 0.4s ease-in-out !important;
+	transition: transform 0.4s ease-in-out !important;
+	transition: transform 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out !important;
+	-webkit-transform: translateY(-110vh) !important;
+	-ms-transform: translateY(-110vh) !important;
+	transform: translateY(-110vh) !important;
+}
+
+.she-header-yes	.elementor-widget-theme-site-logo,
+.she-header-yes .elementor-widget-image,
+.she-header-yes .logo,
+.she-header-yes	.elementor-widget-theme-site-logo img,
+.she-header-yes .elementor-widget-image img,
+.she-header-yes .logo img
+{
+	-webkit-transition: all 0.4s ease-in-out !important;
+	-o-transition: all 0.4s ease-in-out !important;
+	transition: all 0.4s ease-in-out !important;
+}
+
+/* .she-header-hide-on-scroll-yes {
+  -webkit-transition: transform 0.4s ease-in-out !important;
+	-o-transition: transform 0.4s ease-in-out !important;
+	-webkit-transition: -webkit-transform 0.4s ease-in-out !important;
+	transition: -webkit-transform 0.4s ease-in-out !important;
+	transition: transform 0.4s ease-in-out !important;
+	transition: transform 0.4s ease-in-out, -webkit-transform 0.4s ease-in-out !important;
+} */
+
+/* .elementor-document-handle {
+	z-index: 9999999999999 !important;
+} */

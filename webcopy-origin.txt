@@ -1,0 +1,804 @@
+Uri: https://fonts.googleapis.com/css?family=Outfit:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Quicksand:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|ZCOOL+XiaoWei:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Questrial:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Outfit:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Quicksand:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|ZCOOL+XiaoWei:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Outfit:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|ZCOOL+XiaoWei:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Quicksand:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Questrial:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Quicksand:100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900%2C100i%2C200i%2C300i%2C400i%2C500i%2C600i%2C700i%2C800i%2C900i&subset=latin&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4bCyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4deyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4e6yO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4QK1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC0O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4TC1O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4W61O4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/outfit/v11/QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\outfit\v11\QGYyz_MVcBeNP4NjuGObqx1XmO1I4ZmyO4a0Fg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/questrial/v18/QdVUSTchPBm7nuUeVf70viFg.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\questrial\v18\QdVUSTchPBm7nuUeVf70viFg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkBgv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkCEv58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xw.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkKEo58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkM0o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/quicksand/v31/6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\quicksand\v31\6xK-dSZaM9iE8KbpRA_LJ3z8mH9BOJvgkP8o58a-xw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/zcoolxiaowei/v14/i7dMIFFrTRywPpUVX9_RJyM1UFWaGw.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\s\zcoolxiaowei\v14\i7dMIFFrTRywPpUVX9_RJyM1UFWaGw.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/
+File Name: C:\Downloaded Web Sites\otoflight.com\index.htm
+Content Type: text/html
+
+Uri: https://otoflight.com/about-us/
+File Name: C:\Downloaded Web Sites\otoflight.com\about-us\index.htm
+Content Type: text/html
+
+Uri: https://otoflight.com/comments/feed/
+File Name: C:\Downloaded Web Sites\otoflight.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://otoflight.com/contact-us/
+File Name: C:\Downloaded Web Sites\otoflight.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://otoflight.com/feed/
+File Name: C:\Downloaded Web Sites\otoflight.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://otoflight.com/f_b/
+File Name: C:\Downloaded Web Sites\otoflight.com\f_b\index.htm
+Content Type: text/html
+
+Uri: https://otoflight.com/our-services/
+File Name: C:\Downloaded Web Sites\otoflight.com\our-services\index.htm
+Content Type: text/html
+
+Uri: https://otoflight.com/wp-content/plugins/chaty/css/chaty-front.min.css?ver=3.1.21682518929
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\chaty\css\chaty-front.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/chaty/images/header-bottom.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\chaty\images\header-bottom.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/chaty/images/header-top.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\chaty\images\header-top.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/chaty/images/whatsapp.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\chaty\images\whatsapp.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/chaty/js/cht-front-script.min.js?ver=3.1.21682518929
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\chaty\js\cht-front-script.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\css\frontend-legacy.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/js/preloaded-modules.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\js\preloaded-modules.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\dialog\dialog.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.20.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.20.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.20.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.20.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.20.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.20.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.css?ver=4.1.4
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/flatpickr/flatpickr.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\flatpickr\flatpickr.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.14.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\share-link\share-link.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/swiper/css/swiper.min.css?ver=5.3.6
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\swiper\css\swiper.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/fonts/elementskit.woff?y24e1e
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\fonts\elementskit.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/arrow.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\arrow.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/cross-out.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\cross-out.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_asc_disabled.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_asc_disabled.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/img/sort_desc.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\img\sort_desc.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.min.js?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.9.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/preloader-plus/assets/css/preloader-plus.min.css?ver=2.2.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\preloader-plus\assets\css\preloader-plus.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/preloader-plus/assets/js/preloader-plus.min.js?ver=2.2.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\preloader-plus\assets\js\preloader-plus.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/css/frontend.min.css?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/js/frontend.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/js/page-transitions.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\js\page-transitions.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/js/preloaded-elements-handlers.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\js\preloaded-elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/js/webpack-pro.runtime.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/lib/instant-page/instant-page.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\lib\instant-page\instant-page.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/lib/lottie/lottie.min.js?ver=5.6.6
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\lib\lottie\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/pro-elements/assets/lib/sticky/jquery.sticky.min.js?ver=3.12.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\pro-elements\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/plugins/sticky-header-effects-for-elementor/assets/css/she-header-style.css?ver=1.6.5
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\sticky-header-effects-for-elementor\assets\css\she-header-style.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/plugins/sticky-header-effects-for-elementor/assets/js/she-header.js?ver=1.6.5
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\plugins\sticky-header-effects-for-elementor\assets\js\she-header.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/css/style.min.css?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/css/third/simple-line-icons.min.css?ver=2.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\css\third\simple-line-icons.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/css/all.min.css?ver=5.15.1
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.eot?v=2.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.svg?v=2.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.ttf?v=2.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff2?v=2.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/fonts/simple-line-icons/Simple-Line-Icons.woff?v=2.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\fonts\simple-line-icons\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\drop-down-mobile-menu.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/ow-lightbox.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\ow-lightbox.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/ow-slider.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\ow-slider.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/scroll-effect.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\scroll-effect.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/scroll-top.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\scroll-top.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\select.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\theme.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/vendors/flickity.pkgd.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\vendors\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/themes/oceanwp/assets/js/vendors/magnific-popup.min.js?ver=3.4.3
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\themes\oceanwp\assets\js\vendors\magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-content/uploads/2018/05/serious-businesswoman-with-documents-talking-on-P9Q6LX6.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2018\05\serious-businesswoman-with-documents-talking-on-P9Q6LX6.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/cropped-Otoflight-Logo-180x180.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\cropped-Otoflight-Logo-180x180.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/cropped-Otoflight-Logo-192x192.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\cropped-Otoflight-Logo-192x192.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/cropped-Otoflight-Logo-32x32.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\cropped-Otoflight-Logo-32x32.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/cropped-Otoflight-Logo.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\cropped-Otoflight-Logo.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/dddddd.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\dddddd.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/ddddddd-650x436.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\ddddddd-650x436.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/ddddddd.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\ddddddd.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/Do-I-need-travel-insurance-in-the-USA-as-a-Danish-traveler.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\Do-I-need-travel-insurance-in-the-USA-as-a-Danish-traveler.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/ff-650x361.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\ff-650x361.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/ff.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\ff.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/ffff.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\ffff.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/l1.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\l1.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/Otoflight-Logo-1536x382.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\Otoflight-Logo-1536x382.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/Otoflight-Logo-200x50.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\Otoflight-Logo-200x50.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/Otoflight-Logo-2048x510.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\Otoflight-Logo-2048x510.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/Otoflight-Logo.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\Otoflight-Logo.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/pass-650x306.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\pass-650x306.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/pass.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\pass.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/software_pattern__.png
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\software_pattern__.png
+Content Type: image/png
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/travel-insua-650x251.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\travel-insua-650x251.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/travel-insua.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\travel-insua.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/visa.webp
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\visa.webp
+Content Type: image/webp
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/vvvvv.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\vvvvv.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/wp7050201-travels-wallpapers.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\wp7050201-travels-wallpapers.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/wp7050208-travels-wallpapers.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\wp7050208-travels-wallpapers.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/2023/04/wp8525914-travel-boy-wallpapers.jpg
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\2023\04\wp8525914-travel-boy-wallpapers.jpg
+Content Type: image/jpeg
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-1077.css?ver=1701788253
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-1077.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-187.css?ver=1682518713
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-187.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-440.css?ver=1701787542
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-440.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-708.css?ver=1682518892
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-708.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-788.css?ver=1682518713
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-788.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-860.css?ver=1682518896
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-860.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-content/uploads/elementor/css/post-928.css?ver=1682518889
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-content\uploads\elementor\css\post-928.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://otoflight.com/wp-includes/js/dist/hooks.min.js?ver=4169d3cf8e8d95a3d6d5
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/dist/i18n.min.js?ver=9e794f35a71bb98672ae
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\dist\vendor\regenerator-runtime.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\dist\vendor\wp-polyfill-inert.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\dist\vendor\wp-polyfill.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://otoflight.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://otoflight.com/wp-json/
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2F
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Fabout-us%2F
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Fabout-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Ff_b%2F
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Ff_b%2F&format=xml
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Four-services%2F
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fotoflight.com%2Four-services%2F&format=xml
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://otoflight.com/wp-json/wp/v2/pages/1077
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\wp\v2\pages\1077
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/wp/v2/pages/440
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\wp\v2\pages\440
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/wp/v2/pages/708
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\wp\v2\pages\708
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/wp/v2/pages/860
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\wp\v2\pages\860
+Content Type: application/json
+
+Uri: https://otoflight.com/wp-json/wp/v2/pages/928
+File Name: C:\Downloaded Web Sites\otoflight.com\wp-json\wp\v2\pages\928
+Content Type: application/json
+
+Uri: https://otoflight.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\otoflight.com\xmlrpc.php
+Content Type: text/xml
+
